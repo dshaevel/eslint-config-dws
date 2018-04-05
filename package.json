@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-dws",
+  "version": "2.0.1",
+  "description": "eslint configuration for David Shaevel's JavaScript projects.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "eslint": "$(npm bin)/eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^2.9.0",
+    "eslint-config-airbnb": "^8.0.0",
+    "eslint-plugin-import": "^1.6.1",
+    "eslint-plugin-jsx-a11y": "^1.0.4",
+    "eslint-plugin-react": "^5.0.1",
+    "grunt": "^1.0.1",
+    "grunt-eslint": "^18.1.0"
+  }
+}

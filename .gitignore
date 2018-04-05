@@ -1,0 +1,7 @@
+.idea/
+.DS_Store
+node_modules/*
+!node_modules/eslint-config-bmc
+*.log
+*.orig
+*.swp
